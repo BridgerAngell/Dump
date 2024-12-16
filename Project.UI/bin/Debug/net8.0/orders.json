@@ -1,0 +1,128 @@
+[
+  {
+    "Items": [
+      {
+        "Product": {
+          "Id": 2,
+          "Name": "Black Tea",
+          "Price": 1.00
+        },
+        "Quantity": 3
+      }
+    ],
+    "OrderDate": "0001-01-01T00:00:00",
+    "OrderDay": 0,
+    "Subtotal": 3.00,
+    "SalesTax": 0.300,
+    "Total": 3.300,
+    "IsFulfilled": false
+  },
+  {
+    "Items": [
+      {
+        "Product": {
+          "Id": 2,
+          "Name": "Black Tea",
+          "Price": 1.00
+        },
+        "Quantity": 3
+      }
+    ],
+    "OrderDate": "0001-01-01T00:00:00",
+    "OrderDay": 0,
+    "Subtotal": 3.00,
+    "SalesTax": 0.300,
+    "Total": 3.300,
+    "IsFulfilled": false
+  },
+  {
+    "Items": [
+      {
+        "Product": {
+          "Id": 1,
+          "Name": "Coffee",
+          "Price": 2.50
+        },
+        "Quantity": 9
+      }
+    ],
+    "OrderDate": "0001-01-01T00:00:00",
+    "OrderDay": 0,
+    "Subtotal": 22.50,
+    "SalesTax": 2.250,
+    "Total": 24.750,
+    "IsFulfilled": true
+  },
+  {
+    "Items": [
+      {
+        "Product": {
+          "Id": 2,
+          "Name": "Black Tea",
+          "Price": 1.00
+        },
+        "Quantity": 3
+      }
+    ],
+    "OrderDate": "0001-01-01T00:00:00",
+    "OrderDay": 0,
+    "Subtotal": 3.00,
+    "SalesTax": 0.300,
+    "Total": 3.300,
+    "IsFulfilled": false
+  },
+  {
+    "Items": [
+      {
+        "Product": {
+          "Id": 2,
+          "Name": "Black Tea",
+          "Price": 1.00
+        },
+        "Quantity": 3
+      }
+    ],
+    "OrderDate": "2024-12-14T01:11:59.141847-07:00",
+    "OrderDay": 1,
+    "Subtotal": 3.00,
+    "SalesTax": 0.300,
+    "Total": 3.300,
+    "IsFulfilled": false
+  },
+  {
+    "Items": [
+      {
+        "Product": {
+          "Id": 3,
+          "Name": "Matcha Tea",
+          "Price": 2.00
+        },
+        "Quantity": 3
+      }
+    ],
+    "OrderDate": "2024-12-16T02:02:31.6636748-07:00",
+    "OrderDay": 6,
+    "Subtotal": 6.00,
+    "SalesTax": 0.600,
+    "Total": 6.600,
+    "IsFulfilled": false
+  },
+  {
+    "Items": [
+      {
+        "Product": {
+          "Id": 2,
+          "Name": "Black Tea",
+          "Price": 1.00
+        },
+        "Quantity": 3
+      }
+    ],
+    "OrderDate": "2024-12-16T02:36:02.4212563-07:00",
+    "OrderDay": 0,
+    "Subtotal": 3.00,
+    "SalesTax": 0.300,
+    "Total": 3.300,
+    "IsFulfilled": false
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "Items": [],
+    "Subtotal": 0,
+    "SalesTax": 0.0,
+    "Total": 0.0
+  },
+  {
+    "Items": [],
+    "Subtotal": 0,
+    "SalesTax": 0.0,
+    "Total": 0.0
+  },
+  {
+    "Items": [
+      {
+        "Product": {
+          "Id": 1,
+          "Name": "Coffee",
+          "Price": 2.50
+        },
+        "Quantity": 200,
+        "LineTotal": 500.00
+      },
+      {
+        "Product": {
+          "Id": 2,
+          "Name": "Black Tea",
+          "Price": 1.00
+        },
+        "Quantity": 3,
+        "LineTotal": 3.00
+      }
+    ],
+    "Subtotal": 503.00,
+    "SalesTax": 50.300,
+    "Total": 553.300
+  }
+]
