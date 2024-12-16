@@ -57,8 +57,8 @@ namespace Project.Logic
 
         public string AddItemToOrder(Order order, int productId, int quantity)
         {
-            // (REQ#1.1.3) Code implementing adding multiple quantities
-            // (REQ#1.2.3) Code implementing adding different item types
+            // (REQ#1.1.3) 
+            // (REQ#1.2.3) 
 
             if (quantity <= 0)
             {

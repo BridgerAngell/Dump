@@ -25,7 +25,7 @@ namespace Project.UI
                 Console.WriteLine("2. Finalize Order"); 
                 Console.WriteLine("3. View Pending Orders"); 
                 Console.WriteLine("4. Worker: Fulfill an Order"); 
-                Console.WriteLine("5. Manager: View One-Line Summary for a Selected Day"); 
+                Console.WriteLine("5. Manager: View One-Line Summary for a Given Day of the Week"); 
                 Console.WriteLine("6. Exit");
                 Console.Write("Choose an option: ");
                 var input = Console.ReadLine();
@@ -177,7 +177,7 @@ namespace Project.UI
                         }
                         else
                         {
-                            Console.WriteLine("Invalid selection. Please choose a number between 1 and 7.");
+                            Console.WriteLine("Choose a number between 1 and 7.");
                         }
                         break;
 
@@ -187,7 +187,7 @@ namespace Project.UI
                 }
             }
 
-            Console.WriteLine("Thank you for visiting!");
+            Console.WriteLine("Come again soon!");
         }
     }
 }
