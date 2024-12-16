@@ -100,7 +100,7 @@ namespace Project.Logic
             }
 
             
-            order.OrderDate = DateTime.Now;
+           
             _persistence.SaveOrder(order);  //(REQ#1.4.3)
             return "Order has been finalized and saved.";
         }

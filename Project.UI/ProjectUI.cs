@@ -141,10 +141,10 @@ namespace Project.UI
                         break;
 
                     case "5":
-                        // (REQ#1.6.3)
+                        
                         Console.Write("Enter manager password: ");
                         var password = Console.ReadLine();
-                        // (FREQ#1.8.3)
+                        // FREQ#1.8.3)
                         if (password != "uh")
                         {
                             Console.WriteLine("Incorrect password. Access denied.");

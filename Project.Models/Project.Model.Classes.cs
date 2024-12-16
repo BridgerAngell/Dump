@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Linq;
+﻿
 using System.Text.Json.Serialization;
 
 namespace Project.Models
@@ -25,8 +24,7 @@ namespace Project.Models
         public List<OrderItem> Items { get; set; } = new List<OrderItem>();
         
         
-        public DateTime OrderDate { get; set; }
-        public DayOfWeek OrderDay { get; set; }
+               public DayOfWeek OrderDay { get; set; }
         
       
         public decimal Subtotal => Items.Sum(item => item.LineTotal);
